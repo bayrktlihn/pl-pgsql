@@ -1,2 +1,2 @@
 # pl-pgsql
-[Servis Dosyası](MyService.java)
+[Aylık Gün Maskeleme](aylık_maskeleme.sql)
